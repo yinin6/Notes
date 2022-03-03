@@ -1,4 +1,3 @@
 hello world！
 !!!!!!!!!!!!
-这是一个链接 [en](_posts/2022-3-3-test.md)
-aa[test](_posts/a.md)
+这是一个链接 [en](_posts/algorithm/2022-3-3-test.md)
